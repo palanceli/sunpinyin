@@ -24,7 +24,6 @@ Makefile.in.in
 *.loT
 *.so
 *.a
-*.bz2
 .libs
 cscope.out
 
