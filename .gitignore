@@ -14,7 +14,35 @@ configure
 
 Makefile
 Makefile.in
-Makefile.in.in 
+Makefile.in.in
+
+*.dylib
+src/genpyt
+src/getwordfreq
+src/idngram_merge
+src/ids2ngram
+src/mmseg
+src/pinyin/pinyin_info.h
+src/pinyin/quanpin_trie.h
+src/slmbuild
+src/slminfo
+src/slmpack
+src/slmprune
+src/slmseg
+src/slmthread
+src/sunpinyin-dictgen
+src/sunpinyin-dictgen.mk
+src/testvc
+src/tslmendian
+src/tslminfo
+temp/
+
+data/lm_sc.t3g
+data/pydict_sc.bin
+wrapper/macos/SunPinyin.xcodeproj/project.xcworkspace/
+wrapper/macos/SunPinyin.xcodeproj/xcuserdata/
+wrapper/macos/zh_CN.lproj/MainMenu.nib
+wrapper/macos/zh_CN.lproj/MainMenu.xib
 
 *.pc
 *.pyc
